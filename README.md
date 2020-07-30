@@ -4,7 +4,7 @@ link to site : https://sumanabhlapibul.github.io/myweb/
 
 Meetup Data Storytelling - July 29, 2020  PowerPoint Slide Presentation
 
-<iframe src="https://thedogoodonlycompany-my.sharepoint.com/personal/sumana_dogoodonly_nl/_layouts/15/Doc.aspx?sourcedoc={da50a565-8cb3-4240-aae3-f094cecaf119}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaa=1" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=B7FB8D845C600B20&amp;resid=B7FB8D845C600B20%213979&amp;authkey=AKkWaG_iLT-Suu4&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <br>
 <br>
