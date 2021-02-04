@@ -4,7 +4,7 @@ link to site : https://sumanabhlapibul.github.io/myweb/
 <br>
 
 Dashboard for a Webshop - January 4, 2021
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU76xnz1HKZg-D35x0a4cdlkgEak2GxjiQ-Ay3UVEe1Da9REWOl3Vihq-RlNlmjSfTap9kRHhnUtPM/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="830" height="512" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU76xnz1HKZg-D35x0a4cdlkgEak2GxjiQ-Ay3UVEe1Da9REWOl3Vihq-RlNlmjSfTap9kRHhnUtPM/pubhtml?widget=true&amp;headers=false"></iframe>
 <br>
 <br>
 
