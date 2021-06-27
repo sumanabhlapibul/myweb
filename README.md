@@ -3,6 +3,8 @@
 link to site : https://sumanabhlapibul.github.io/myweb/
 <br>
 
+python pet projects
+1. Restructure Denmark's margriet route gpx data for Komoot app. https://github.com/sumanabhlapibul/myweb/blob/master/margrietroute.ipynb 
 
 Meetup Data Storytelling - July 29, 2020  PowerPoint Slide Presentation
 
