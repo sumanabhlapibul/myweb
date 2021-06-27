@@ -1,6 +1,6 @@
 # sumana
 
-link to page : <a href= "https://sumanabhlapibul.github.io/sumana/">sumana</a>
+link to page : <a href= "https://sumanabhlapibul.github.io/sumana/">https://sumanabhlapibul.github.io/sumana/</a>
 <br>
 
 ## Who is Sumana <br>
