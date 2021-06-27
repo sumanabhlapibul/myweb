@@ -3,6 +3,26 @@
 link to site : https://sumanabhlapibul.github.io/sumana/
 <br>
 
+## Who is Sumana <br>
+
+
+<ul>
+  <li>I am visualised person. I see the frame, the pieces and connection between pieces like in  a jigzaw puzzle.</li>
+  <li>When thing does not work, like my camera and PC at home, I take it in to pieces and repair or replace the part.</li>
+  <li>I have been working in international organization for more than 30 years, I have developed many skill set to communicate with people from diverse culture and languages</li>
+  <li>People says that I am very energetic, trustworthy, highly motivate and result oriented person</li>
+  <li>I like being busy both mind and body hence I am looking for working evironment that I can utilise my brain power and stay healthy.</li>
+</ul>
+
+<br>
+<p>
+ My problem solving skill comes from  years of working experience, analytical  and visualisation ability. I can breakdown a complex situation into many small set of challenges which can be tranformed and refitted into a better big picture.
+![image](https://user-images.githubusercontent.com/37951708/123553013-45620b00-d779-11eb-88ba-1209d8f46628.png)
+ 
+</p>
+<br>
+
+
 <b>python pet projects</b>
 1. Restructure Denmark's margriet route gpx data for Komoot app. https://github.com/sumanabhlapibul/myweb/blob/master/margrietroute.ipynb 
 
