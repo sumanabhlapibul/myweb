@@ -1,6 +1,6 @@
-# myweb
+# sumana
 
-link to site : https://sumanabhlapibul.github.io/myweb/
+link to site : https://sumanabhlapibul.github.io/sumana/
 <br>
 
 <b>python pet projects</b>
