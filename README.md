@@ -1,6 +1,6 @@
 # sumana
 
-link to site : https://sumanabhlapibul.github.io/sumana/
+link to page : https://sumanabhlapibul.github.io/sumana/
 <br>
 
 ## Who is Sumana <br>
@@ -17,15 +17,14 @@ link to site : https://sumanabhlapibul.github.io/sumana/
 <br>
 <p>
  My problem solving skill comes from  years of working experience, analytical  and visualisation ability. I can breakdown a complex situation into many small set of challenges which can be tranformed and refitted into a better big picture.
-![image](https://user-images.githubusercontent.com/37951708/123553013-45620b00-d779-11eb-88ba-1209d8f46628.png)
+
  
 </p>
 <br>
 
 
 <b>python pet projects</b>
-1. Restructure Denmark's margriet route gpx data for Komoot app. https://github.com/sumanabhlapibul/myweb/blob/master/margrietroute.ipynb 
-
+1. Restructure Denmark's margriet route gpx data for Komoot app.  <a href="https://github.com/sumanabhlapibul/myweb/blob/master/margrietroute.ipynb">margrietroute.ipynb</a>
 
 <br>
 <b>Visualizing with Google Sheet</b><br>
